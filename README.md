@@ -1,6 +1,6 @@
 # Random User App
 
-Приложение для получения случайного пользователя. 
+Приложение для получения случайного пользователя.  
 API: https://randomuser.me
 
 ---
@@ -49,6 +49,8 @@ API: https://randomuser.me
 - data — источники данных (API, Room), DTO + мапперы
 - domain — бизнес-логика (UseCase, domain-модели, интерфейсы репозиториев)
 - presentation — ViewModel, стейт менеджмент, UI
+
+---
 
  ##  Технологии
 
